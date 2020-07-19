@@ -18,7 +18,11 @@ I coordinate the Forest Modelling Group of the Spanish Society of Forest Science
 ### Open-source Projects
 
 - **R packages:** [neighborhood](https://github.com/ameztegui/neighborhood) | [plasticity](https://github.com/ameztegui/plasticity) | [persistR](https://github.com/ameztegui/persistR-1)
-- **Teaching Materials:** [data management and visualization with R](https://github.com/ameztegui/111022_data_management_visualization) | [tidyverse workshop](https://github.com/ameztegui/tidyverse_workshop) | [dplyr workshop](https://github.com/ameztegui/dplyr_workshop)
+- **Teaching Materials:** 
+  * [data management and visualization with R](https://github.com/ameztegui/111022_data_management_visualization) [![DOI](https://zenodo.org/badge/200104059.svg)](https://zenodo.org/badge/latestdoi/200104059)
+  * [tidyverse workshop](https://github.com/ameztegui/tidyverse_workshop) [![DOI](https://zenodo.org/badge/164469568.svg)](https://zenodo.org/badge/latestdoi/164469568)
+  * [dplyr workshop](https://github.com/ameztegui/dplyr_workshop) [![DOI](https://zenodo.org/badge/79127907.svg)](https://zenodo.org/badge/latestdoi/79127907)
+
 
 - **Shiny Apps and Visualizations:** [CLIMO project](https://github.com/ameztegui/CLIMO_website) |  [Reunion Modelos SECF](https://github.com/ameztegui/CEF_Modelos_2019) | [SIBECOL twitter Analysis](https://github.com/ameztegui/SIBECOL_twitter_analysis)
 
