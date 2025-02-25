@@ -5,7 +5,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=jxINPWcAAAAJ)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Aitor_Ameztegui)
 [![Publons Badge](https://img.shields.io/badge/Publons-Profile-blue)](https://publons.com/researcher/1317963/aitor-ameztegui/)
-[![Website Badge](https://img.shields.io/badge/My-Website-red)](https://www.ameztegui.weebly.com)
+[![Website Badge](https://img.shields.io/badge/My-Website-red)](https://www.amezteguilab.wordpress.com)
 [![UdL Badge](https://img.shields.io/badge/UdL-Website-critical)](http://www.eagrof.udl.cat/en/personnel/PDI/ameztegui.html)
 
 I am Associate Professor (Serra-Hunter Fellow) at the [Universitat de Lleida](www.udl.cat), and associated researcher at the Joint Research Unit [CTFC-Agrotecnio](www.ctfc.cat).
