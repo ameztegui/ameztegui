@@ -11,7 +11,7 @@
 I am Associate Professor (Serra-Hunter Fellow) at the [Universitat de Lleida](www.udl.cat), and associated researcher at the Joint Research Unit [CTFC-Agrotecnio](www.ctfc.cat).
 My research focuses on understanding how the interactions between human activity and environmental changes determine forest functioning and dynamics. I am particularly interested in (i) the assessment of land-use legacies and how they impact forest dynamics and their capacity to respond to the challenges of climate change; and (ii) the use of simulation models to inform forest management and decision making. I assess the future consequences that the management decisions we take today may have on the functioning of forests, their ability to provide different ecosystem services, and their resilience, i.e. their ability to cope with disturbances. My final aim is to help decision-makers to anticipate global change impacts through the implementation of appropriate adaptive management strategies based on the best available science.
 
-I am head of the Department of Agricultural and Forest Science and Engineering, and I am Associate Editor of the journals [Landscape Ecology](https://link.springer.com/journal/10980) and [Forest Systems](https://revistas.inia.es/index.php/fs)
+I am member of the Board of Directors of the Spanish Society of Forest Sciences, head of the Department of Agricultural and Forest Science and Engineering, and Coordinator of the MSc in Forest Engineering at the University f Lleida. I am also Associate Editor of the journals [Landscape Ecology](https://link.springer.com/journal/10980) and [Forest Systems](https://revistas.inia.es/index.php/fs).
 
 ---
 
