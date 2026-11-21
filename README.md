@@ -11,13 +11,13 @@
 I am Associate Professor (Serra-Hunter Fellow) at the [Universitat de Lleida](www.udl.cat), and associated researcher at the Joint Research Unit [CTFC-Agrotecnio](www.ctfc.cat).
 My research focuses on understanding how the interactions between human activity and environmental changes determine forest functioning and dynamics. I am particularly interested in (i) the assessment of land-use legacies and how they impact forest dynamics and their capacity to respond to the challenges of climate change; and (ii) the use of simulation models to inform forest management and decision making. I assess the future consequences that the management decisions we take today may have on the functioning of forests, their ability to provide different ecosystem services, and their resilience, i.e. their ability to cope with disturbances. My final aim is to help decision-makers to anticipate global change impacts through the implementation of appropriate adaptive management strategies based on the best available science.
 
-I coordinate the Forest Modelling Group of the Spanish Society of Forest Sciences, and I am Associate Editor of the journals [Forest Systems](https://revistas.inia.es/index.php/fs) and [Cuadernos de la SECF](http://secforestales.org/publicaciones/index.php/cuadernos_secf/index).
+I am head of the Department of Agricultural and Forest Science and Engineering, and I am Associate Editor of the journals [Landscape Ecology](https://link.springer.com/journal/10980) and [Forest Systems](https://revistas.inia.es/index.php/fs)
 
 ---
 
 ### Open-source Projects
 
-- **R packages:** [neighborhood](https://github.com/ameztegui/neighborhood) | [plasticity](https://github.com/ameztegui/plasticity) | [persistR](https://github.com/ameztegui/persistR-1)
+- **R packages:** [IFNr](https://github.com/ameztegui/IFNr) |[neighborhood](https://github.com/ameztegui/neighborhood) | [plasticity](https://github.com/ameztegui/plasticity) | [persistR](https://github.com/ameztegui/persistR-1)
 - **Teaching Materials:** 
   * [data management and visualization with R](https://github.com/ameztegui/111022_data_management_visualization) [![DOI](https://zenodo.org/badge/200104059.svg)](https://zenodo.org/badge/latestdoi/200104059)
   * [tidyverse workshop](https://github.com/ameztegui/tidyverse_workshop) [![DOI](https://zenodo.org/badge/164469568.svg)](https://zenodo.org/badge/latestdoi/164469568)
